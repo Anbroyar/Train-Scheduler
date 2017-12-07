@@ -1,0 +1,13 @@
+body {
+	background-color: #666699;
+}
+.jumbotron{
+	background-color: #333399;
+}
+.container {
+	background-color: #ffffcc;
+	border-radius: 20px;
+}
+.panel {
+	margin: 20px 10px;
+}
